@@ -3,7 +3,7 @@ public class shavitshelli {
     {
         for(int i=1; i<=10; i++)
         {
-            System.out.println("shavit shelli "+i);
+            System.out.println("shavit shelli is the best student XDXDXD"+i);
         }
     }
     
